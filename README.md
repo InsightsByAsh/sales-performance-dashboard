@@ -37,3 +37,7 @@ dashboard that answers key business questions:
 - Source: Kaggle Superstore Dataset
 - Total Records: 9,995 transactions
 - Time Period: 2014 to 2017
+
+
+## Dashboard Preview
+![Sales Dashboard](Screenshot_Dashboard.png)
